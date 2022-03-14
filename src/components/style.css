@@ -1,0 +1,64 @@
+#main{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+}
+
+.Heading-1{
+    color: #1F48CB;
+    position: relative;
+    left: 510px;
+    margin-top: 80px;
+}
+.Heading-2{
+    color: #B4B7BE;
+    position: relative;
+    left: 510px;
+}
+
+.Time{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.forLabel{
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+}
+.Button-1{
+    white-space: nowrap; 
+    height: 30px;
+    width: 250px;
+    color: black;
+    overflow: hidden;
+    text-overflow: clip; 
+}
+
+.color-1{
+    background-color: #F4EC8B;
+    border: 1px solid #F4EC8B;
+
+}
+
+.color-2{
+    background-color: #FBCD93;
+    border: 1px solid #FBCD93;
+}
+
+.color-3{
+    background-color: #F8AFBC;
+    border: 1px solid #F8AFBC;
+}
+
+.color-4{
+    background-color: #F7B8DE;
+    border: 1px solid #F7B8DE;
+}
+
+.color-5{
+    background-color: #FCDEC5;
+    border: 1px solid #FCDEC5;
+}
